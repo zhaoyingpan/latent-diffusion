@@ -1,0 +1,9 @@
+base:
+- /n/owens-data1/mnt/big2/data/panzy/latent/config.yaml
+batch_size: 4
+custom_steps: 50
+eta: 1.0
+logdir: logs
+n_samples: 4
+resume: /n/owens-data1/mnt/big2/data/panzy/latent/model.ckpt
+vanilla_sample: false
